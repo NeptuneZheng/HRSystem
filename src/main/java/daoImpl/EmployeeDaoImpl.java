@@ -1,7 +1,8 @@
-package java.daoImpl;
+package daoImpl;
 
-import java.dao.EmployeeDao;
-import java.entity.Employee;
+
+import dao.EmployeeDao;
+import entity.Employee;
 
 /**
  * Created by Z.Neptune on 2017/9/10.

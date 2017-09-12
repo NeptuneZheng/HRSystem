@@ -1,6 +1,6 @@
-package java.dao;
+package dao;
 
-import java.entity.Employee;
+import entity.Employee;
 
 /**
  * Created by Z.Neptune on 2017/9/10.
